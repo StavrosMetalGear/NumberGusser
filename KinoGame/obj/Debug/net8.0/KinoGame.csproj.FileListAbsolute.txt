@@ -1,0 +1,14 @@
+C:\Users\stavr\source\repos\KinoGame\bin\Debug\net8.0\KinoGame.exe
+C:\Users\stavr\source\repos\KinoGame\bin\Debug\net8.0\KinoGame.deps.json
+C:\Users\stavr\source\repos\KinoGame\bin\Debug\net8.0\KinoGame.runtimeconfig.json
+C:\Users\stavr\source\repos\KinoGame\bin\Debug\net8.0\KinoGame.dll
+C:\Users\stavr\source\repos\KinoGame\bin\Debug\net8.0\KinoGame.pdb
+C:\Users\stavr\source\repos\KinoGame\obj\Debug\net8.0\KinoGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stavr\source\repos\KinoGame\obj\Debug\net8.0\KinoGame.AssemblyInfoInputs.cache
+C:\Users\stavr\source\repos\KinoGame\obj\Debug\net8.0\KinoGame.AssemblyInfo.cs
+C:\Users\stavr\source\repos\KinoGame\obj\Debug\net8.0\KinoGame.csproj.CoreCompileInputs.cache
+C:\Users\stavr\source\repos\KinoGame\obj\Debug\net8.0\KinoGame.dll
+C:\Users\stavr\source\repos\KinoGame\obj\Debug\net8.0\refint\KinoGame.dll
+C:\Users\stavr\source\repos\KinoGame\obj\Debug\net8.0\KinoGame.pdb
+C:\Users\stavr\source\repos\KinoGame\obj\Debug\net8.0\KinoGame.genruntimeconfig.cache
+C:\Users\stavr\source\repos\KinoGame\obj\Debug\net8.0\ref\KinoGame.dll

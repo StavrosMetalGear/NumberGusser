@@ -1,0 +1,41 @@
+
+Kino Game Probability Analysis:
+
+The game is based on selecting 6 unique numbers from a pool of 49 numbers. In each game round, 20 numbers are drawn randomly.
+
+### How the probabilities are calculated:
+
+The probability of matching a specific number of picks is calculated using the concept of **combinations**. 
+The formula for combinations is:
+    C(n, k) = n! / [k! * (n - k)!]
+    
+Where:
+- n = Total numbers (49 in this case)
+- k = Numbers to match (0 to 6)
+
+For example:
+If you want to calculate the probability of matching 3 numbers:
+1. The number of ways to pick 3 matches out of 20 is: C(20, 3)
+2. The number of ways to pick the remaining 3 non-matches out of the 29 numbers left is: C(29, 3)
+3. The total number of combinations of picking 6 numbers from 49 is: C(49, 6)
+
+The probability is the ratio of successful combinations to the total combinations.
+
+Example Calculation:
+P(Matching 3 numbers) = [C(20, 3) * C(29, 3)] / C(49, 6)
+
+### The Odds:
+The odds represent how many attempts are required on average to win at each tier.
+If the probability is 0.001, the odds are 1 in 1000.
+
+Below is the table with the full statistical breakdown.
+
+
+Matches	Prize	Odds (1 in X)	Probability (%)
+6	Jackpot + 20x Bet	360.78	0.27718
+5	10x Bet	31.1	3.21526
+4	5x Bet	7.11	14.06676
+3	2x Bet	3.36	29.78844
+2	1x Bet	3.1	32.27081
+1	Half Bet	5.89	16.98463
+0	Lose Bet (Jackpot Increase)	29.44	3.39693
