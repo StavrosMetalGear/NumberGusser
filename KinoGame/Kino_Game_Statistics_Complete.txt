@@ -28,7 +28,7 @@ P(Matching 3 numbers) = [C(20, 3) * C(29, 3)] / C(49, 6)
 The odds represent how many attempts are required on average to win at each tier.
 If the probability is 0.001, the odds are 1 in 1000.
 
-Below is the table with the full statistical breakdown.
+
 
 
 Matches	Prize	Odds (1 in X)	Probability (%)
